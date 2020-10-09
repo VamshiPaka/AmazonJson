@@ -1,0 +1,85 @@
+{
+  "update_time": "2020-05-19 19:39:50",
+  "offers": [
+    {
+      "category_label": "Baby",
+      "category_id": "165796011",
+      "products": [
+        {
+          "id": "78250220",
+          "normalPrice": "69.95",
+          "reviewRating": 4.3232145,
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51fyrisF4%2BL.jpg",
+          "totalReviews": "13",
+          "description": "Sammy Lou Butterfly Meadow Bedding",
+          "title": "Sammy u0026 Lou Butterfly Meadow 4 Piece Crib Bedding Set",
+          "endDate": "2020-05-22 07:00:00",
+          "url": "https://www.amazon.com/Sammy-Lou-Butterfly-Meadow-Bedding/dp/B07QXMGFGC?smid=ATVPDKIKX0DER",
+          "offerPercent": 20,
+          "offerPrice": "55.99"
+        },
+        {
+          "url": "https://www.amazon.com/Storeofbaby-Reusable-Diapers-Washable-Adjustable/dp/B07J31TMCW?smid=A27AXBROO8DMQ0",
+          "offerPercent": 15,
+          "offerPrice": "11.04",
+          "id": "5b99cd2f",
+          "normalPrice": "12.99",
+          "reviewRating": 4.5206337,
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51LEohemtYL._SCLZZZZZZZ__.jpg",
+          "totalReviews": "232",
+          "description": "Storeofbaby Reusable Baby Swim Diapers Swimming Pants for Newborn Toddlers 0-3 Years",
+          "title": "Storeofbaby Reusable Baby Swim Diapers Swimming Pants for Newborn Toddlers 0-3 Years",
+          "endDate": "2020-05-19 21:50:01"
+        }
+      ],
+      "products_count": 2
+    },
+    {
+      "category_label": "Arts, Crafts u0026 Sewing",
+      "category_id": "2617941011",
+      "products": [
+        {
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Q9wwHOvkL.jpg",
+          "totalReviews": "4570",
+          "description": "Snazaroo Face Paint Ultimate Party",
+          "title": "Snazaroo Face Paint Kit Ultimate Party Pack, Multicolor",
+          "endDate": "2020-05-27 07:00:00",
+          "url": "https://www.amazon.com/Snazaroo-Face-Paint-Ultimate-Party/dp/B00026ZEDK?smid=ATVPDKIKX0DER",
+          "offerPercent": 21,
+          "offerPrice": "15.69",
+          "id": "19b980bf",
+          "normalPrice": "19.95",
+          "reviewRating": 4.3372874
+        },
+        {
+          "description": "Simplicity Sewing Pattern 2613 Crafts",
+          "title": "Simplicity 2613 Cute Stuffed Animal Sewing Pattern for Children and Toddlers by Elaine Heigl Designs, One Size",
+          "endDate": "2020-05-28 07:00:00",
+          "url": "https://www.amazon.com/Simplicity-Sewing-Pattern-2613-Crafts/dp/B004N3AVCM?smid=ATVPDKIKX0DER",
+          "offerPercent": 38,
+          "offerPrice": "9.88",
+          "id": "3702e196",
+          "normalPrice": "15.99",
+          "reviewRating": 4.519696,
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Y-LtRbCeL.jpg",
+          "totalReviews": "149"
+        },
+        {
+          "description": "Simplicity Creative Patterns US8723A Costumes",
+          "title": "Simplicity 8723 Harry Potter Cosplay and Halloween Costume Sewing Pattern, Kids Teens and Adult Sizes XS-XL",
+          "endDate": "2020-05-24 07:00:00",
+          "url": "https://www.amazon.com/Simplicity-Creative-Patterns-US8723A-Costumes/dp/B07DRHQVHV?smid=ATVPDKIKX0DER",
+          "offerPercent": 16,
+          "offerPrice": "11.02",
+          "id": "bd106d7b",
+          "normalPrice": "13.17",
+          "reviewRating": 4.579913,
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/512j9S8AG1L.jpg",
+          "totalReviews": "102"
+        }
+      ],
+      "products_count": 3
+    }
+  ]
+}    
+    
