@@ -11,7 +11,8 @@ const offerRoutes = (app, fs) => {
 
 			res.send(JSON.parse(data));
 		});
-	});
+    });
+
 };
 
 module.exports = offerRoutes;
